@@ -12,5 +12,6 @@
             <img class="img-responsive" src="img/Arduino_Uno_-_R3.jpg" alt="Chania" width="340" height="245"/>
         </div>
     </div>
+    <div></div>
 </asp:Content>
 
